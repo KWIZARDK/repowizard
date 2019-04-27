@@ -96,7 +96,7 @@ WIZARDFILE     = 'https://archive.org/download/wizardk_201812/icon.png'
 ###        Repo If Not Installed ########################
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL    = 'Yes'
+AUTOINSTALL    = 'No'
 # Addon ID for the repository
 REPOID         = 'repository.wizardk'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
@@ -109,7 +109,7 @@ REPOZIPURL     = 'https://raw.githubusercontent.com/KWIZARDK/repowizard/master/r
 ### Notification Window #################################
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE         = 'Yes'
+ENABLE         = 'No'
 # Url to notification file
 NOTIFICATION   = 'http://wizardk.x10host.com/notificacion.txt'
 # Use either 'Text' or 'Image'
