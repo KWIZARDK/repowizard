@@ -260,7 +260,7 @@ def buildMenu():
 			else:
 				if count18 > 0:
 					state = '+' if SHOW18 == 'false' else '-'
-					addFile('[B]%s Base y Parches para Kodi 18 Krypton (%s)[/B]' % (state, count18), 'togglesetting',  'show18', themeit=THEME3)
+					addFile('[B]%s Base y Parches para Kodi 18 Leia (%s)[/B]' % (state, count18), 'togglesetting',  'show18', themeit=THEME3)
 					if SHOW18 == 'false':
 						for name, version, url, gui, kodi, theme, icon, fanart, adult, description in match:
 							if not SHOWADULT == 'true' and adult.lower() == 'yes': continue
