@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.newwizardk" name="[B][LOWERCASE][CAPITALIZE][COLOR white]New[COLOR aquamarine]WizardK[/CAPITALIZE][/LOWERCASE][/B][/COLOR]" version="2.6" provider-name="WizardK">
+<addon id="plugin.program.newwizardk" name="[B][LOWERCASE][CAPITALIZE][COLOR white]New[COLOR aquamarine]WizardK[/CAPITALIZE][/LOWERCASE][/B][/COLOR]" version="2.7" provider-name="WizardK">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
