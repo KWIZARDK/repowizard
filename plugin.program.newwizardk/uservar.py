@@ -13,7 +13,7 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[COLOR red]WizardK[/COLOR]'
 BUILDERNAME    = 'WHIZ'
-EXCLUDES       = [ADDON_ID, 'plugin.program.newwizardk', 'skin.titan.mod.beta.leia', 'skin.titan']
+EXCLUDES       = [ADDON_ID, 'plugin.program.newwizardk']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
