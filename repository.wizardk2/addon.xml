@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.wizardk2" name="[COLOR lime]Repositorio WizardK2[/COLOR] Repo" version="1.3" provider-name="WizardK2">
+<addon id="repository.wizardk2" name="[COLOR lime]Repositorio WizardK2[/COLOR] Repo" version="1.2" provider-name="WizardK2">
     <extension point="xbmc.addon.repository" name="Mi repositorio">
         <info>https://raw.githubusercontent.com/KWIZARDK/repowizard/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/KWIZARDK/repowizard/master/addons.xml.md5</checksum>
