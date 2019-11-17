@@ -16,7 +16,7 @@ info="http://"
 description=""
 
 
-name="a17"
+name="orig17"
 version="0.0.1"
 url="http://kwizardk.epizy.com/wizardk/completo.zip"
 gui=""
